@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <UserProfile image='/user.jpg' firstName='Nedim' LastName='Kajanija' />
+      <UserProfile image='user.jpg' firstName='Nedim' LastName='Kajanija' />
       </>
   )
 }
