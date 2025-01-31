@@ -1,5 +1,6 @@
 # React User Profile Component
 This is simple react app using component and **props**
+[Live Demo](https://kajanija.github.io/react-user-profile-component/)
 ## Install
 Follow this steps:
 ### 1 Clone
